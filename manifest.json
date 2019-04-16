@@ -1,8 +1,8 @@
 {
-  "name": "Dendeve Tecnologia",
-  "short_name": "Dendev",
-  "theme_color": "#005f97",
-  "background_color": "#005f97",
+  "name": "Pizzaria Segue o Baile",
+  "short_name": "Segue o Baile",
+  "theme_color": "#e16369",
+  "background_color": "#e16369",
   "display": "standalone",
   "scope": "/",
   "start_url": "/?utm_source=homescreen",
@@ -10,7 +10,7 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/valdiney/dendedevsite.github.io/master/img/favicon-512x512.png",
+      "src": "https://raw.githubusercontent.com/valdiney/cardapioPizzaria.io/master/img/imagem_social.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
